@@ -30,6 +30,4 @@ This tool uses selenium to parse and query html. It uses chromedriver to control
 
 ## Disclaimer
 
-This tool does **not** store, stream or use copyrighted material - it only handles URLs.
-
 Use of this tool is at each users own risk. Under no circumstances shall the developer(s) be liable for and indirect, incidental, consequential, special or exemplary damages arising out of the services this tool provides.
